@@ -1,4 +1,4 @@
-# Index.html
+# index.html
 <doctype html>
 <html lang="en-US">
 <head>
