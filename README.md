@@ -2,8 +2,7 @@
 <doctype html>
 <html lang="en-US">
 <head>
-<meta charset="UTF-8" name="viewport"content="width=device-width,initial-scale=1.0">
-   
+
 <title> Healthy Living Lifestyle.</title>
 
 <link rel="stylesheet" href="/mystyle.css"/>
@@ -107,7 +106,7 @@
 <p>Stress promotes unhealthy living. Learn how to manage your emotions and challenges. Always listen to positive things and interact with positive minded people. Stress leads to depression and low metabolic rate. When you prolong your stress, your physical body is affected resulting in an unhealthy life. Stress can be managed with exercise.</p> 
         </article>
     
-    <section>
+    
  <div style="background-color:orange; padding:20px;">
 
 <h3> Food versus Healthy Living.</h3>
@@ -125,8 +124,6 @@
  </p>
 </div>
 </section>
-    
-       <article>
 <article class="browser">
 
 <h3> How food promotes a Healthy Living Life.</h3>
@@ -315,18 +312,12 @@ such as high blood pressure, obesity, and type 2 diabetes, says  Baltimore Long
 
 <p>Oversleeping can lower a person's lifespan, hence increasing the chances of death. Poor sleeping can make the person get irritated,poor mood,fatigue and tiredness. This leads to depression and poor performance output. Good sleep boosts the memory of a person and the mood. The metabolic rate is balanced leading to good healthy aging.</p>
 </article>
-            
-            
-            <footer> 
-                 <p><i> Eunia kwamboka is a programmer and freelancer article writer.She writes on healthyliving articles in a diversity of fields.Subscribe to the website to enjoy newly daily well researched articles. </i></p>
-                                                
-  </footer>  
+                  
   <address>
 Written by:Euniah Kwamboka.<br>
 Visit us at: <br> healthylivingunita@gmail.com.<br>
  <p><a href="mailto: healthylivingunita@gmail.com"> send email </a></p>
       </address>
- 
 
   <form>
       <h1>Subscribe</h1>
@@ -343,6 +334,4 @@ Visit us at: <br> healthylivingunita@gmail.com.<br>
 <input type="submit" value="submit">
 </form>
     
-          </body>
-          </html>
-          
+         
